@@ -1,4 +1,4 @@
-# Trabalho 1 de ORG B - UFRGS 
+# Trabalho 1 de ORG B - UFRGS 2022/1 
 
 ## 🖥️ Instruções 
 - JALR
